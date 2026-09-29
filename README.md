@@ -7,7 +7,7 @@ Software Developer and Security Engineer
 Software developer and security enthusiast with 7 years of coding experience, from C++ in high school to Python, Rust, Java, and SQL today. Information Security Intern at the Federal Home Loan Bank of New York (2025), where I worked across the security workflow: detection (Darktrace, Defender), vulnerability scanning (Rapid7), and ticketing/response (ServiceNow).
 
 * 🌍  I'm based in New Jersey
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/camrenmatt/portfolio.git)
+* 🖥️  See my portfolio [here](http://github.com/camrenmatt/portfolio.git)
 * ✉️  You can contact me at [camrenmattia@gmail.com](mailto:camrenmattia@gmail.com)
 * 💬  Ask me about I am also one of the managers of the rock climbing facility New Jersey Rock Gym, as well as their Redpoint Administrator and Assistant Head Routesetter.
 
